@@ -11,3 +11,5 @@ STEPS TO USE APPLICATION
 
 
 For any issues contact support, support@acityattendance.com
+
+#attendance
